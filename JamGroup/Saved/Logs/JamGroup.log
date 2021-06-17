@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 06/17/21 15:09:01
+=======
+﻿Log file open, 06/17/21 14:34:57
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 06/17/21 14:34:57
 >>>>>>> Stashed changes
@@ -13,6 +17,9 @@ LogStats: Stats thread started at 0.697338
 =======
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.276334
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
@@ -21,6 +28,7 @@ LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
@@ -43,6 +51,12 @@ LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
+=======
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
@@ -59,6 +73,9 @@ LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin CurveEditorTools
@@ -68,6 +85,7 @@ LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MaterialAnalyzer
@@ -112,11 +130,34 @@ LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin Niagara
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin SkeletalReduction
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
@@ -131,6 +172,8 @@ LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -163,14 +206,20 @@ LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AssetTags
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AudioCapture
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AudioSynesthesia
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin EditableMesh
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ArchVisCharacter
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
@@ -186,7 +235,12 @@ LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PhysXVehicles
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ScreenshotTools
+=======
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin ProceduralMeshComponent
@@ -200,6 +254,7 @@ LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystem
@@ -223,6 +278,12 @@ LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+=======
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
@@ -313,6 +374,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2021.06.17-14.09.04:842][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.06.17-14.09.04:842][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2232,6 +2294,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.17-14.29.41:493][463]LogExit: Exiting.
 [2021.06.17-14.29.41:508][463]Log file closed, 06/17/21 15:29:41
 =======
+=======
+>>>>>>> Stashed changes
 [2021.06.17-13.34.57:818][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.06.17-13.34.57:818][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.06.17-13.34.57:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/github/git-workshop/Compiling-Shaders-Jam-group/JamGroup/Saved/Config/Windows/Engine.ini]
@@ -6038,4 +6102,7 @@ Continue: Skip saving this asset only.
 [2021.06.17-14.39.09:341][ 12]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.17-14.39.09:341][ 12]LogContentValidation: Display: Validating World /Game/Levels/Level2.Level2
 [2021.06.17-14.39.09:341][ 12]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level2_BuiltData.Level2_BuiltData
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
